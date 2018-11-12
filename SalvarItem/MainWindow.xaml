@@ -1,0 +1,90 @@
+﻿<Window x:Class="SalvarItem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="623.709" Width="644.127">
+	<Grid Margin="0,0,-8,-5">
+		<Label
+            Content="Cadastro de livros"
+            FontFamily="Arial"
+            FontSize="42"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            ></Label>
+
+		<Label
+            Content="Nome do livro: "
+            FontFamily="Arial"
+            FontSize="16"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Center" Margin="10,342,0,228"
+            ></Label>
+
+		<TextBox
+            x:Name="TbxNomeLivro"
+            FontFamily="Arial"
+            FontSize="16"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" Margin="202,348,100,0" Width="342"
+            ></TextBox>
+
+		<Label
+            Content="Autor do livro: "
+            FontFamily="Arial"
+            FontSize="16"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Center" Margin="10,376,0,194"
+            ></Label>
+
+		<TextBox
+            x:Name="TbxAutor"
+            FontFamily="Arial"
+            FontSize="16"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" Margin="202,381,100,0" Width="342"
+            ></TextBox>
+
+		<Label
+            Content="Editora do livro: "
+            FontFamily="Arial"
+            FontSize="16"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Center" Margin="10,409,0,161"
+            ></Label>
+
+
+		<TextBox
+            x:Name="TbxEditora"
+            FontFamily="Arial"
+            FontSize="16"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" Margin="202,414,100,0" Width="342"
+            ></TextBox>
+
+		<Label
+            Content="Genero do livro: "
+            FontFamily="Arial"
+            FontSize="16"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Center" Margin="10,442,0,128"
+            ></Label>
+
+		<TextBox
+            x:Name="TbxGenero"
+            FontFamily="Arial"
+            FontSize="16"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" Margin="202,447,100,0" Width="342"
+            ></TextBox>
+
+		<Button
+            Click="cadastrar"
+            Content="Adicionar"
+            FontFamily="Arial"
+            FontSize="22"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Bottom" Margin="365,0,40,56" Width="120"
+            ></Button>
+		<DataGrid HorizontalAlignment="Left" Height="274" Margin="10,63,0,0" VerticalAlignment="Top" Width="624"/>
+
+	</Grid>
+</Window>

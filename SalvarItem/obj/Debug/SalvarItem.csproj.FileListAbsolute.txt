@@ -1,0 +1,32 @@
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\bin\Debug\SalvarItem.exe.config
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\bin\Debug\SalvarItem.exe
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\bin\Debug\SalvarItem.pdb
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\SalvarItem.csprojResolveAssemblyReference.cache
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\MainWindow.baml
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\MainWindow.g.cs
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\App.g.cs
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\SalvarItem_MarkupCompile.cache
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\SalvarItem.g.resources
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\SalvarItem.Properties.Resources.resources
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\SalvarItem.csproj.GenerateResource.Cache
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\SalvarItem.exe
+c:\users\alunos\documents\visual studio 2013\Projects\SalvarItem\SalvarItem\obj\Debug\SalvarItem.pdb
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\MainWindow.baml
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\MainWindow.g.cs
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\App.g.cs
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem_MarkupCompile.cache
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem.g.resources
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem.Properties.Resources.resources
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem.csproj.GenerateResource.cache
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem.exe
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\bin\Debug\SalvarItem.exe.config
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\bin\Debug\SalvarItem.exe
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\bin\Debug\SalvarItem.pdb
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\bin\Debug\EntityFramework.dll
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\bin\Debug\EntityFramework.xml
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem.csproj.CopyComplete
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem.pdb
+C:\Users\Jean\Desktop\SalvarItem\SalvarItem\obj\Debug\SalvarItem.csprojAssemblyReference.cache
